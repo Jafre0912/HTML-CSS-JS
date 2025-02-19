@@ -17,5 +17,9 @@ let objB={
         return a+b;
     }
 }
-console.log(objB.add(2,3));
-console.log(objB.name);
+//by using forin loop
+for(var key in objB){
+    console.log(key,objB[key]);
+}
+//console.log(objB.add(2,3));
+//console.log(objB.name);
