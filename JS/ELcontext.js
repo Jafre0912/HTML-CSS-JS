@@ -19,3 +19,19 @@ cookFood(); // खाना बनाने का ऑर्डर
 
 //👉 Execution Context = एगो रसोई घर, जहवाँ हर function के आपन अलग-अलग सामान (variables, functions) रहेला!
 //👉 Lexical Environment = अंदर वाला function, बाहर वाला function के चीज देख सकेला, लेकिन बाहर वाला अंदर वाला के नाहीं! isko hindi me likho 
+
+//falsy value: (0, undefined, false,NaN, null, document.all)
+//truthy value: except above falsy keyword all are the truthy value
+
+if(-1){ //this keyword doesnot belongs to falsy value so it's true
+    console.log("hey jafar alam how are you");
+}
+else{
+    console.log("good");
+}
+
+if(0){
+    console.log("truthy value hai");
+}else{
+    console.log("falsy value hai bcz this keyword lies in the falsy value that's why else part excuted");
+}
