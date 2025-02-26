@@ -16,12 +16,23 @@
 
 
 
-6) npm init -y : creates package.json file in our folder 
+5) npm init -y : creates package.json file in our folder 
 
 6) package.json : where we show which file need to run as a main file 
 7)JSX: js+xml
 
+
 8) nodemon: this command automatic change our file data whenever we try to change or update it
+9) npm: node package manager : it keeps all the modules/libraries in the system (It installed all the packages globally )
+        npm install react  # Installs React in node_modules
+        npm install -g nodemon  # Installs nodemon globally    
+        npm -v (to check version)
+
+ 
+10) npx: node package executor: it keeps all the module directly in the folder not in the system(it doesnot installed globally or in system)
+          npx create-react-app my-app  
+          npx -v
+
 */
 
 //5) DEFAULT EXPORT : default export allows you to export a single value like function only, class only, object only, or variable) 
