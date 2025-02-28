@@ -44,3 +44,8 @@
 let subdata=(x,y)=>(x-y);
 console.log(subdata(5,4));
 export{subdata}; 
+
+
+
+//package.json: it keeps the dependecies of our packages 
+//package.lock.json: it keeps the detailed description of installed packages dependecies 
