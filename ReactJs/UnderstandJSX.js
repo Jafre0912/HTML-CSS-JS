@@ -1,0 +1,1 @@
+//jsx: combination of js+xml
