@@ -29,7 +29,7 @@
         npm -v (to check version)
 
  
-10) npx: node package executor: it keeps all the module directly in the folder not in the system(it doesnot installed globally or in system)
+10) npx: node package executor: it keeps all the module directly in the folder not in the systems(it doesnot installed globally or in system)
           npx create-react-app my-app  
           npx -v
 
