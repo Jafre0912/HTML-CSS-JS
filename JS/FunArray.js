@@ -1,4 +1,4 @@
-function jafre(a,b){ //here a,b are as parameter
+function jafre(a,b){ //here a,b are as parameters
      let sum = a+b;
     console.log(sum);
 }
