@@ -5,7 +5,7 @@
 
 function cookFood() {
     let rice = "Biryani";  // Variables (सामान)
-    let masala = "Spices"; // Variable (सामान)
+    let masala = "Spices"; // Variables (सामान)
     
     function serveFood() { // Inner Function (अंदर वाला कुक)
         console.log("Serving " + rice);
