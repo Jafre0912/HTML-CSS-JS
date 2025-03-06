@@ -5,7 +5,7 @@ function jafre(a,b){ //here a,b are as parameter
 jafre(2,4); //here 2, 4 are as argument it's used during calling the function
 
 //Array: An array is a collection of elements of the same data type, stored in contiguous memory locations.
-//Basic Operation on array 
+//Basic Operations on array 
 let arr = [1,2,3,4,5,6,7,8];
 console.log("the original array is:"+ arr);
 
