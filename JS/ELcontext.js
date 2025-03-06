@@ -1,7 +1,7 @@
 //Execution context: whenever we make a function that fxn creates a new imaginary container that contains 
 // variable, fxn inside parent fxn , and laxical enviromnent
 
-//Lexical Environment : the features of inner fxn which can access the all the features of outer fxn but outer fxn can't access of it
+//Lexical Environments : the features of inner fxn which can access the all the features of outer fxn but outer fxn can't access of it
 
 function cookFood() {
     let rice = "Biryani";  // Variable (सामान)
