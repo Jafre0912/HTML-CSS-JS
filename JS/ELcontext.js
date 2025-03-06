@@ -4,7 +4,7 @@
 //Lexical Environments : the features of inner fxn which can access the all the features of outer fxn but outer fxn can't access of it
 
 function cookFood() {
-    let rice = "Biryani";  // Variable (सामान)
+    let rice = "Biryani";  // Variables (सामान)
     let masala = "Spices"; // Variable (सामान)
     
     function serveFood() { // Inner Function (अंदर वाला कुक)
