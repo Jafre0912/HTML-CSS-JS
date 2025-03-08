@@ -2,7 +2,7 @@
 //Class: A blueprint or template for creating objects. It defines the properties (variables) and behaviors (methods) that the objects will have.
 
 
-//the empty obj is 
+//the empty obje is 
 let objA={
 
 }
