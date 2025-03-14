@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Show/Hide Password</title>
+</head>
+<body>
+    <input type="password" id="pass">
+    <button onclick="showHidePass()" id="btn">show</button>
+</body>
+
+<script>
+    let password = document.getElementById('pass');
+    let buttons = document.getElementById('btn'); // Correct variable name
+
+    function showHidePass(){
+        if(buttons.innerHTML == "show"){ 
+            password.type = "text"; 
+            buttons.innerHTML = "hide"; 
+        } else {
+            password.type = "password"; 
+            buttons.innerHTML = "show"; 
+        }
+    }
+</script>
+</html>
