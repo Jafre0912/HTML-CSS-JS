@@ -6,7 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1 id="heading">welcome to study loom</h1>
+    <h1 id="heading">welcome <u>to</u> study loom</h1>
+    <p id="output"></p>
 </body>
 
 <script>
@@ -18,6 +19,10 @@
     */
     
     let heading = document.getElementById('heading');
-    console.log(heading);
+    //console.log(heading);
+    console.log(heading.innerText)// this gives the only inside text
+    console.log(heading.innerHTML)// this gives full data
+
+    para.innerHTML=heading.innerHTML;
 </script>
 </html>
