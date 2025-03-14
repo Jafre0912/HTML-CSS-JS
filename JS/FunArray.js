@@ -38,3 +38,9 @@ for(var key in arr1){
     //console.log(arr1[key]);
     console.log(key,arr1[key])
 }
+
+
+let l = [10,20,30,40,50,60,70,80]
+l.forEach((v,i)=>{ //for each loop itirates the array values v = value, i=index this fxn have no any name is called anonymous fxn (a fxn which has not any name)
+    console.log(v,i)
+})
