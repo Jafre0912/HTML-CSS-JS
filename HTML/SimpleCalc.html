@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    Num1 <input type="text" class="input" placeholder="Enter the value1"/> <br/>
+    Num2 <input type="text" class="input" placeholder="Enter the value 2"/> <br/>
+    <button>Save</button>
+    Output <input type="text" class="input" placeholder="Output"/> <br/>
+</body>
+<script>
+    //querySelector : always returns only single element
+    //let allInput=document.querySelector(".input")
+    let btn = document.querySelector("button")
+    let allInput = document.querySelectorAll(".input")
+
+    btn.addEventListener("click",()=>{
+        let input1Value = Number(allInput[0].value);
+        let input2Value = Number(allInput[1].value);
+
+        let output = input1Value+input2Value;
+        allInput[2].value=output
+        allInput[0].value=''
+        allInput[1].value=''
+    })
+</script>
+</html>
