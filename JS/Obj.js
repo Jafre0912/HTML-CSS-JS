@@ -23,3 +23,5 @@ for(var key in objB){
 }
 //console.log(objB.add(2,3));
 //console.log(objB.name);
+
+
