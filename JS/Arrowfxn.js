@@ -29,5 +29,5 @@ let myfun = (n1=10,n2=5)=>{
     }
 }
 //let myAns = myfun(10,10) (if u will not pass any argument then default value n1,n2=5 will assigned )
-let myDefaultAns = myfun()
+let myDefaultAns = myfun();
 console.log(myDefaultAns.sum);
