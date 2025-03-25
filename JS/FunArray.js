@@ -2,7 +2,7 @@ function jafre(a,b){ //here a,b are as parameters
      let sum = a+b;
     console.log(sum);
 }
-jafre(2,4); //here 2, 4 are as argument it's used during calling the function
+jafre(2,4); //here 2, 4 are as argument it's used during calling the functions
 
 //Array: An array is a collection of elements of the same data type, stored in contiguous memory locations.
 //Basic Operations on array 
