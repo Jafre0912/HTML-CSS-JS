@@ -14,7 +14,7 @@ function greet(name, callback) {
 function sayBye() {
     console.log("Goodbye!");
 }
-// greet function ko call kar rahe hain aur usme sayBye function de rahe hain
+// greet function ko call kar rahe hai aur usme sayBye function de rahe hain
 greet("Jafre", sayBye);
 
 
