@@ -8,7 +8,7 @@ setTimeout(function(){ //function() is the callback function
 //another example
 function greet(name, callback) {
     console.log("Hello, " + name);
-    callback();  // Callback function ko yahan call kar rahe hain
+    callback();  // Callback function ko yahan call karr rahe hai
 }
 
 function sayBye() {
