@@ -21,7 +21,7 @@ greet("Jafre", sayBye);
 
 
 
-//fist class function :Jbb JavaScript me functions ko ek variable me store kar sakte hain, kisi function ko argument ke roop me de sakte hain, aur return bhi kar sakte hain, toh usko First-Class Function kaha jata hai. 
+//fist class function :Jbb JavaScript me functions ko ek variable me store kar skte hain, kisi function ko argument ke roop me de sakte hain, aur return bhi kar sakte hain, toh usko First-Class Function kaha jata hai. 
 let greet = function() { //function stored in greet variable 
     console.log("Hello, Jafre!");
 };
