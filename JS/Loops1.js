@@ -1,5 +1,5 @@
 //foreach loop: always runs on array whenever u have an array only use foreach
-// it used to perform operation on each items/index of the array but cannot break or return 
+// it used to perform operations on each items/index of the array but cannot break or return 
 
 let plates = ["लिट्टी-1", "लिट्टी-2", "लिट्टी-3", "लिट्टी-4", "लिट्टी-5"];
 
