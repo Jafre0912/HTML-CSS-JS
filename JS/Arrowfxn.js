@@ -13,7 +13,7 @@ let ans = addData2(5);
 console.log(ans);
 
 
-let addData3 = (a,b)=>{ //if {} braces use then reutrn is mandatory to use otherwise o/p will not get
+let addData3 = (a,b)=>{ //if {} braces use then reutrn is mandatory to use otherwise o/p will not get...
     return a+b;
 }
 let ans1 = addData3(2,4)
