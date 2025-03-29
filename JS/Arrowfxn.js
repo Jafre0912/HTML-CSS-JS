@@ -19,7 +19,7 @@ let addData3 = (a,b)=>{ //if {} braces use then reutrn is mandatory to use other
 let ans1 = addData3(2,4)
 console.log(ans1)
 
-//using default value
+//using default values
 let myfun = (n1=10,n2=5)=>{
     return{
         sum:n1+n2,
