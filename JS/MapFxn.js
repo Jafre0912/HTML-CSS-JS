@@ -9,3 +9,5 @@ let newArr=l1.map((v,i)=>{
     return v+i;
 })
 console.log(newArr)
+
+//map fxn: simple map fxn value ko update krne k lye use hota hh jaise hrr arr value me 1 ya 2 ko update krna hai toh update karke same length of array output deta hai
