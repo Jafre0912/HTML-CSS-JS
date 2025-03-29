@@ -8,7 +8,7 @@ let addData1 = (num1,num2)=>num1*num2; //here not required to write the return n
 console.log(addData1(10,2)); 
 
 
-let addData2 = num1 =>num1; //for single parameter no need to use(num1)
+let addData2 = num1 =>num1; //for single parameter no need to use(num1);;
 let ans = addData2(5);
 console.log(ans);
 
