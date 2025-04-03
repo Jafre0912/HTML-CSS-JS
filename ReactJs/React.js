@@ -21,6 +21,13 @@
 6) package.json : where we shows which files need to run as a main file 
 7)JSX: js+xml 
        XML =(Extensible Markup Language)-: XML data ko store aur transfer karne ki ek markup language hai. not html but same like html
+    
+       XML ke Fayde:
+      ✅ Data ko Structure karna – XML data ko ek structured format me store karta hai.
+      ✅ Self-Descriptive Tags – XML me hum apne tags khud define kar sakte hain, unlike HTML.
+      ✅ Platform-Independent – XML kisi bhi programming language ke saath kaam kar sakta hai.
+         Matlab, XML ek structured way hai data ko represent karne ka, jise APIs, configurations, aur data
+         
 
 
 8) nodemon: this commands automatic change our file data whenever we try to change or update it
