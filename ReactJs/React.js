@@ -27,7 +27,12 @@
       ✅ Self-Descriptive Tags – XML me hum apne tags khud define kar sakte hain, unlike HTML.
       ✅ Platform-Independent – XML kisi bhi programming language ke saath kaam kar sakta hai.
          Matlab, XML ek structured way hai data ko represent karne ka, jise APIs, configurations, aur data
-         eg.
+         eg. <student>
+                <name>Jafre Alam</name>
+                <age>22</age>
+                <course>Computer Science</course>
+            </student>
+
 
 
 8) nodemon: this commands automatic change our file data whenever we try to change or update it
