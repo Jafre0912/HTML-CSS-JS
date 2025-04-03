@@ -35,7 +35,7 @@
 
 */
 
-//5) DEFAULT EXPORT : default export allows you to export a single value like function only, class only, object only, or variable) 
+//5) DEFAULT EXPORT : default export allows you to export a single value like functions only, class only, object only, or variable) 
     //eg: 
     let sumData=(a,b)=>a+b;
     console.log(sumData(2,3));
