@@ -18,7 +18,7 @@
 
 5) npm init -y : creates package.json file in our folder 
 
-6) package.json : where we show which files need to run as a main file 
+6) package.json : where we shows which files need to run as a main file 
 7)JSX: js+xml
 
 
