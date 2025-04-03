@@ -48,4 +48,4 @@ export{subdata};
 
 
 //package.json: it keeps the dependecies of our packages 
-//package.lock.json: it keeps the detailed description of installed packages dependecies 
+//package.lock.json: it keeps the detailed descriptions of installed packages dependecies 
