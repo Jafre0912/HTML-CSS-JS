@@ -22,7 +22,7 @@
 7)JSX: js+xml
 
 
-8) nodemon: this command automatic change our file data whenever we try to change or update it
+8) nodemon: this commands automatic change our file data whenever we try to change or update it
 9) npm: node package manager : it keeps all the modules/libraries in the systems (It installed all the packages globally )
         npm install react  # Installs React in node_modules
         npm install -g nodemon  # Installs nodemon globally    
