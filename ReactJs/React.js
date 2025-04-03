@@ -19,7 +19,8 @@
 5) npm init -y : creates package.json file in our folder 
 
 6) package.json : where we shows which files need to run as a main file 
-7)JSX: js+xml
+7)JSX: js+xml 
+       XML =(Extensible Markup Language)-: XML data ko store aur transfer karne ki ek markup language hai. not html but same like html
 
 
 8) nodemon: this commands automatic change our file data whenever we try to change or update it
