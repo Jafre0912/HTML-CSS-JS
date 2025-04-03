@@ -12,7 +12,7 @@
 2)Viratula DOM: it is the cope of real DOM... whenever react makes any change/updates in componanets that only react does not reload the full website it only update that part only that has been changed in the component... bby the help of virtual DOM
 3) and jo v change hota hh uske vDom real dom me update krr deta hh 
 
-4) realDOM: this is real stracture of browser 
+4) realDOM: this is real stractures of browser 
 
 
 
