@@ -1,6 +1,6 @@
 //arrow function
-let addData=()=>console.log("hy jafar");
-addData();
+let addData=()=>console.log("hy jafar"); //no parameters 
+addData(); //no arguments 
 
 
 //returning arrow fxn wothout return keyword if {} braces not uses the directly =>num1*num2
@@ -20,7 +20,7 @@ let ans1 = addData3(2,4)
 console.log(ans1)
 
 //using default values
-let myfun = (n1=10,n2=5)=>{
+let myfun = (n1=5,n2=5)=>{
     return{
         sum:n1+n2,
         diff:n1-n2,
