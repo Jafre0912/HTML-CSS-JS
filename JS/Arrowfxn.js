@@ -1,5 +1,5 @@
 //arrow function
-let addData=()=>console.log("hy jafar"); //no parameters 
+let addData=()=>console.log("hy jafar"); //no parameters just rememeber 
 addData(); //no arguments 
 
 
